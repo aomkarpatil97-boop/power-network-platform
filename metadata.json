@@ -1,0 +1,7 @@
+{
+  "name": "powerNest - EV Charging & Servicing Platform",
+  "description": "A comprehensive digital ecosystem for EV owners to find chargers, book maintenance, and manage their electric lifestyle with AI-powered insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
